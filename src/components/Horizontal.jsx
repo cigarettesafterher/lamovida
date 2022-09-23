@@ -4,7 +4,7 @@ import React from 'react';
 
 const Horizontal = () => {
   return (
-    <div className="p-3 w-[80%] mx-auto">
+    <div className="p-3 mx-auto">
     <div className="card card-side rounded-none">
     <figure><img className='object-cover h-full w-full' src={Imagen2} alt='/' />
 </figure>
